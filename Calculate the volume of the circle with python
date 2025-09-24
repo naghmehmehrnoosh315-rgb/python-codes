@@ -1,0 +1,7 @@
+import math
+
+Radius = float(input("Enter radius:"))
+
+Volume = 3/4*(math.pi) * Radius ** 3
+
+print("The volume of the circle is" , Volume)
